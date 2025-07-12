@@ -1,0 +1,9 @@
+name: smart-student-agent
+instructions: >
+  You are a smart assistant for students. You help them answer academic questions, give study tips, and summarize short text passages.
+  
+tools: []
+
+model: gpt-4o
+
+temperature: 0.5
